@@ -65,10 +65,10 @@
             <version>${hsqldb.version}</version>
         </dependency> -->
         <dependency> 
-			<groupId>com.mysql.jdbc</groupId>
-			<artifactId>com.springsource.com.mysql.jdbc</artifactId>
-			<version>5.7.19</version> 
-		</dependency>
+	    <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+	    <version>5.7.19</version> 
+	</dependency>
         <!-- Composite-view & layout framework -->
         <dependency>
             <groupId>org.apache.tiles</groupId>
