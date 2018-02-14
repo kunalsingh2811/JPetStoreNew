@@ -6,7 +6,7 @@
     <artifactId>JPetStore</artifactId>
     <name>JPetStore</name>
     <packaging>war</packaging>
-    <version></version>
+    <version>1.0</version>
     <properties>
         <spring.version>3.0.0.RELEASE</spring.version>
         <tiles.version>2.2.0</tiles.version>
